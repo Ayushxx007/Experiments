@@ -5,7 +5,7 @@ const app=express();
 const route=require('../routes/route.js');
 const route2=require('../routes/route2.js');
 const connect=require('../db.js/db.js');
-
+//c
 app.use(express.json());
    
 app.use(cors());
