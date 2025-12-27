@@ -1,7 +1,7 @@
 
 import './App.css'
 
-//import
+//import karo
 
 import React, { useEffect,useState } from 'react'
 
